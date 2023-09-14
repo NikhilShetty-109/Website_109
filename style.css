@@ -16,7 +16,14 @@ html, body {
     width: 1200px;
     margin:0px auto;
 }
-
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
 .main-section {
     width: 100%;
     float: left;
